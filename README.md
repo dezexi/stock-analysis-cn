@@ -15,5 +15,7 @@
 - 进行多轮策略对话，使用缠论/波浪理论等内置策略
 - 管理投资组合，进行风险监控和仓位优化
 
-![示例](https://github.com/user-attachments/assets/8ce5d261-95b9-440c-9305-af4ac7a3bfa6)
+
+![QQ](https://github.com/user-attachments/assets/ea9230ac-3a4d-45c9-9849-65a7ff667e6c)
+![飞书](https://github.com/user-attachments/assets/8ce5d261-95b9-440c-9305-af4ac7a3bfa6)
 
