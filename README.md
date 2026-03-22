@@ -1,7 +1,7 @@
 # daily_stock_analysis_openclaw_skills
 ## 概述
 
-需提前部署，基于本地 [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)项目，对接openclaw运行的自选股智能分析系统skill
+需提前部署 [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis)项目，基于本地项目对接openclaw运行的自选股智能分析系统skill
 
 ## 使用场景
 
